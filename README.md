@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hortelao
 - 👀 I’m interested in learn programming languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning multiple languages
 - 📫 How to reach me andrehortelao93@gmail.com
 
 <!---
