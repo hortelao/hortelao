@@ -1,6 +1,6 @@
-<h1>👋 Olá, o meu nome é André Hortelão</h1>
+<h1>👋 Hi, my name is André Hortelão</h1>
 
-<h3>Bem Vindo ao meu perfil do GitHub</h3>
+<h3>Welcome to my GitHub profile</h3>
 
 <div align="center">
   <a href="https://github.com/hortelao">
@@ -10,16 +10,16 @@
   
   ##
 
-<h4>📖 A estudar</h4>
+<h4>📖 Studying</h4>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <h4>🧐 A Seguir...</h4>  
+  <h4>🧐 Next...</h4>  
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <h4>"Terminado"</h4>
+  <h4>"Finished"</h4>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   ##
@@ -38,12 +38,12 @@
   
   ##
   
-  <h4>🏫👨‍🎓 Educação</h4>
+  <h4>🏫👨‍🎓 Education</h4>
   - Curso Profissional de Informática de Gestão
   - B7Web
   - DankiCode
   
   ##
-  <h4>💻 Atividade</h4>
+  <h4>💻 Activity</h4>
   
 ![Snake animation](https://github.com/hortelao/hortelao/blob/output/github-contribution-grid-snake.svg)
