@@ -34,6 +34,9 @@
      <a href="https://www.instagram.com/ahortelao/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
       </a>
+    <a href="https://www.linkedin.com/hortelao/">
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+      </a>
   </div>
   ##
   
