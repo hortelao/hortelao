@@ -43,7 +43,7 @@
   ##
   
   <h4>🏫👨‍🎓 Education</h4>
-  - \<Code Cadet\> @ \<Code For All_\>
+  - &#60;Code Cadet&#62; @ &#60;Code For All_&#62;
   - Curso Profissional de Informática de Gestão
   - B7Web
   - DankiCode
