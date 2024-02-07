@@ -49,5 +49,3 @@
 
   ![snake animation](https://github.com/hortelao/hortelao/blob/output/github-contribution-grid-snake2.svg)
 
-  
-![Snake animation](https://github.com/hortelao/hortelao/blob/output/github-contribution-grid-snake2.svg)
