@@ -46,5 +46,6 @@
   
   ##
   <h4>💻 Activity</h4>
+
   
-![Snake animation](https://github.com/hortelao/hortelao/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hortelao/hortelao/blob/output/github-contribution-grid-snake2.svg)
