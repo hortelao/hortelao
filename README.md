@@ -11,7 +11,7 @@
   ##
 
 <h4>📖 Studying</h4>
-  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!PNG/java.png">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   <h4>🧐 Next...</h4> 
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
