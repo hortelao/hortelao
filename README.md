@@ -38,6 +38,7 @@
      </a>
     
   </div>
+  
   ##
   
   <h4>🏫👨‍🎓 Education</h4>
@@ -47,6 +48,7 @@
   - DankiCode
   
   ##
+  
   <h4>💻 Activity</h4>
 
 <picture>
