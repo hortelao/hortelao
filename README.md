@@ -48,9 +48,4 @@
   - DankiCode
   
   ##
-  
-  <h4>💻 Activity</h4>
-
-![](https://raw.githubusercontent.com/hortelao/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-  <!--![snake animation](https://github.com/hortelao/hortelao/blob/output/github-contribution-grid-snake2.svg)-->
 
