@@ -4,8 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/hortelao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hortelao&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hortelao&layout=compact&langs_count=7&theme=dracula"/>
+  <p align="center">
+    <a href="https://github.com/hortelao" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=hortelao&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
+    <a href="https://github.com/hortelao" target="_blank" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hortelao&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+</p>
 </div>
   
   ##
