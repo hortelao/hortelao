@@ -1,4 +1,4 @@
-<img src="https://github.com/hortelao/hortelao/blob/main/CommitHortelao.png" />
+<img src="https://github.com/hortelao/hortelao/blob/main/CommitHortelao_v1.png" />
 <h1>👋 Hi, my name is André Hortelão</h1>
 
 <h3>Welcome to my GitHub profile</h3>
