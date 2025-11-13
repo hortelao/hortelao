@@ -17,14 +17,14 @@
 
 
   <div>
-    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,php,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,java,html,css,javascript,php,python,mysql" />
     
   </div>
 
    <h4>"✔ Frameworks & Others"</h4>
 
    <div>
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,jquery,maven,hibernate,idea,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=dotnet,git,bootstrap,jquery,maven,hibernate,idea,postman,vscode,visualstudio" />
     
   </div>
 
